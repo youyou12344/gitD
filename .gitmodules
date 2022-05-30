@@ -1,0 +1,4 @@
+[submodule "gitA"]
+	path = gitA
+	url = git@github.com:youyou12344/gitA.git
+	branch = master
